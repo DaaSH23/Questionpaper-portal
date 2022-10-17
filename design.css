@@ -1,0 +1,44 @@
+body{
+    background-color: #dcf9ff;
+}
+
+.nav{
+    color: #054782;
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 1rem;
+    margin-left: 90%;
+}
+.nav a{
+    text-decoration: none;
+}
+.hed{
+    font-size: 30px;
+    margin-top: 2rem;
+    font-family: 'Scada', sans-serif;
+    color: #054782;
+    text-align: center;
+}
+.pr-form{
+    margin-top: 5rem;
+}
+.pr-form .container {
+    padding-top: 5px;
+    padding-bottom: 3px;
+    background-color: aquamarine;
+    /* border-style: solid; */
+}
+
+.row #sub{
+    border-radius: 10px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.tabel{
+    background-color: aquamarine;
+    text-align: center;
+    /* margin-left: 5rem; */
+    margin-top: 10rem;
+}
+.tabel th{
+    color: #054782;
+}
